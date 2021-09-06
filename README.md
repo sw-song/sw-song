@@ -7,8 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
-[![Velog Badge](http://img.shields.io/badge/Velog-1DBF73?style=round&logo=Vimeo&logoColor=white&link=https://velog.io/@swsong)](https://velog.io/@swsong)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
+[![Tistory Badge](http://img.shields.io/badge/-Tistory-red?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
 
 </div>
 <!--
