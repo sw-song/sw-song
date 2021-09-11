@@ -7,9 +7,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
-[![Tistory Badge](http://img.shields.io/badge/-Tistory-red?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
+[![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
+	
+	
 </div>
 <!--
 **sw-song/sw-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
