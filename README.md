@@ -18,5 +18,5 @@
 ---
 활동
 - 2021 서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)
-- 캐글 Notebooks Expert(상위 1%) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
+- 캐글 Notebooks Expert(전체 상위 1%) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
 
