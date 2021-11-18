@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungson&show_icons=true&theme=merko)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
