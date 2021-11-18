@@ -11,10 +11,10 @@
 
 ---
 공부
-- [TIL(Today I learned)](https://github.com/seungson/TIL) 
-소프트웨어, 데이터사이언스, 데이터베이스 등 기반 지식 학습 공간
-- [TIA(Today I Analyzed)](https://github.com/seungson/TIA) 
-데이터 분석, 머신러닝 학습 공간
+- [TIL(Today I learned) - 개념 정리 / 기반 지식 학습](https://github.com/seungson/TIL) 
+
+- [TIA(Today I Analyzed) - 실습 / 데이터 분석, 머신러닝 학습](https://github.com/seungson/TIA) 
+
 
 ---
 개인 프로젝트
