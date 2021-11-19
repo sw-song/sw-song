@@ -1,12 +1,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungson&show_icons=true&theme=merko)
 
 ---
-스터디
+**스터디**
 - [TIL(Today I learned) - 개념 정리 / 기반 지식 공부](https://github.com/seungson/TIL) 
 - [TIA(Today I Analyzed) - 데이터 분석, 머신러닝 실습](https://github.com/seungson/TIA) 
 
 ---
-프로젝트
+**프로젝트**
 - 2021.10 [패턴 검색 기반 가격 예측 모델 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
 - 2021.9 [증권사 api 연동 슬랙봇 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
 - 2021.7 [R 데이터 분석 영문 튜토리얼 제작](https://github.com/seungson/rbook)
@@ -15,7 +15,7 @@
 - 2020.9 [웹 데이터 수집 파이프라인 구축](https://github.com/seungson/Tech-Trends-2020)
 
 ---
-활동
+**활동**
 - 2021.10 42서울 선발과정(piscine) 수료, 본과정 이수 중
 - 2021.8 서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)
 - 2021.5 캐글 Notebooks Expert(전체 상위 1%) 
