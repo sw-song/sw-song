@@ -7,8 +7,8 @@
 
 ---
 **프로젝트**
-- 2021.10 [패턴 검색 기반 가격 예측 모델 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
-- 2021.9 [증권사 api 연동 슬랙봇 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
+- 2021.9 [패턴 검색 기반 가격 예측 모델 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
+- 2021.8 [증권사 api 연동 슬랙봇 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
 - 2021.7 [R 데이터 분석 영문 튜토리얼 제작](https://github.com/seungson/rbook)
 - 2021.5 [손 동작 인식 기반 음량 조절 소프트웨어 개발](https://github.com/seungson/RealTime_Gesture_VolumeControl)
 - 2021.3 [웹 데이터 수집 스크래퍼 개발](https://github.com/seungson/KR_Tech_Edu_WebScraper)
