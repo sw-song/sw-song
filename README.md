@@ -25,5 +25,5 @@
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/songseungwon/notebook)
 ![tensorflow](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32041855)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/songseungwon/notebook)
