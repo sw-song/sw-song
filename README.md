@@ -24,3 +24,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
+
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/songseungwon/notebook)
