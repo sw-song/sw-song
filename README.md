@@ -7,6 +7,7 @@
 
 ---
 **프로젝트**
+- 2021.11 [딥러닝 이미지 분류 모델 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
 - 2021.9 [패턴 검색 기반 가격 예측 모델 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
 - 2021.8 [증권사 api 연동 슬랙봇 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
 - 2021.7 [R 데이터 분석 영문 튜토리얼 제작](https://github.com/seungson/rbook)
