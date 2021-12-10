@@ -7,8 +7,8 @@
 
 ---
 **프로젝트**
-- 2021.11 [deep learning based image classification model 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
-- 2021.9 [pattern search based time series price prediction model 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
+- 2021.11 [Deep learning based image classification model 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
+- 2021.9 [Pattern search algorithm based time series price prediction model 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
 - 2021.8 [증권사 api based notification 프로그램 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
 - 2021.7 [R data analysis tutorial 제작(영문판)](https://github.com/seungson/rbook)
 - 2021.5 [Hand gesture based realtime volume controler 개발](https://github.com/seungson/RealTime_Gesture_VolumeControl)
