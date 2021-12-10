@@ -7,20 +7,23 @@
 
 ---
 **프로젝트**
-- 2021.11 [딥러닝 이미지 분류 모델 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
-- 2021.9 [패턴 검색 기반 가격 예측 모델 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
-- 2021.8 [증권사 api 연동 슬랙봇 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
-- 2021.7 [R 데이터 분석 영문 튜토리얼 제작](https://github.com/seungson/rbook)
-- 2021.5 [손 동작 인식 기반 음량 조절 소프트웨어 개발](https://github.com/seungson/RealTime_Gesture_VolumeControl)
-- 2021.3 [웹 데이터 수집 스크래퍼 개발](https://github.com/seungson/KR_Tech_Edu_WebScraper)
-- 2020.9 [웹 데이터 수집 파이프라인 구축](https://github.com/seungson/Tech-Trends-2020)
+- 2021.11 [deep learning based image classification model 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
+- 2021.9 [pattern search based time series price prediction model 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/SPF)
+- 2021.8 [증권사 api based notification 프로그램 개발<b> - (주)브레인크루 납품</b>](https://github.com/seungson/kiwoom)
+- 2021.7 [R data analysis tutorial 제작(영문판)](https://github.com/seungson/rbook)
+- 2021.5 [Hand gesture based realtime volume controler 개발](https://github.com/seungson/RealTime_Gesture_VolumeControl)
+- 2021.3 [Web data scraper 개발](https://github.com/seungson/KR_Tech_Edu_WebScraper)
+- 2020.9 [Batch based 웹 데이터 수집 파이프라인 구축](https://github.com/seungson/Tech-Trends-2020)
 
 ---
 **활동**
+- 2021.12- 데이터 분석 솔루션 Mole 운영
 - 2021.10 42 Seoul 선발과정(piscine) 수료, 본과정 이수 중
+- 2021.8-9 Data Scientist in Braincrew inc.
 - 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/seungson/GAN_Project)
 - 2021.5 [캐글 Notebooks Expert(전체 상위 1%)](https://www.kaggle.com/songseungwon)
 - 2021.4 Google Tensorflow Certificate
+- 2019.12-2021.03 Data Science product lead in Fastcampus
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
