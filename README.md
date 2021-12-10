@@ -17,7 +17,7 @@
 
 ---
 **활동**
-- 2021.12- 데이터 분석 솔루션 Mole 운영
+- 2021.12- [데이터 분석 솔루션 Mole](https://data-mole.notion.site/MOLE-13dce7f47ba947568a2d8d85e51d0182) 운영
 - 2021.10 42 Seoul 선발과정(piscine) 수료, 본과정 이수 중
 - 2021.8-9 Data Scientist in Braincrew inc.
 - 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/seungson/GAN_Project)
