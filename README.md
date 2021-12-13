@@ -7,13 +7,13 @@
 
 ---
 **프로젝트**
-- 2021.11 [Deep learning based image classification model 배포 자동화 프로그램 개발](https://github.com/seungson/Slic)
+- 2021.11 [데이터 수집-모델 학습-웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/seungson/Slic)
 - 2021.9 [금융 시계열 예측을 위한 패턴 검색 알고리즘 개발](https://github.com/seungson/SPF)
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/seungson/kiwoom)
-- 2021.7 [R data analysis tutorial 제작(영문판)](https://github.com/seungson/rbook)
-- 2021.5 [Hand gesture based realtime volume controler 개발](https://github.com/seungson/RealTime_Gesture_VolumeControl)
-- 2021.3 [Web data scraper 개발](https://github.com/seungson/KR_Tech_Edu_WebScraper)
-- 2020.9 [Batch based 웹 데이터 수집 파이프라인 구축](https://github.com/seungson/Tech-Trends-2020)
+- 2021.7 [R 데이터분석 튜토리얼 제작(영문판)](https://github.com/seungson/rbook)
+- 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러 개발(Hand Gesture Recognition)](https://github.com/seungson/RealTime_Gesture_VolumeControl)
+- 2021.3 [웹 데이터 수집 프로그램 개발](https://github.com/seungson/KR_Tech_Edu_WebScraper)
+- 2020.9 [배치 단위 웹 데이터 DB화-대시보드 시각화 파이프라인 구축](https://github.com/seungson/Tech-Trends-2020)
 
 ---
 **활동**
