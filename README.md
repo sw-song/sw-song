@@ -17,9 +17,9 @@
 
 ---
 **활동**
-- 2021.12- (주)페이먼트인앱 Data Scientist
+- 2021.12- paymentInAPP Inc. Data Scientist(Finance, AI investment Modeling)
 - 2021.10 42 Seoul 선발과정(piscine) 수료, 본과정 이수 중
-- 2021.8-10 브레인크루(주) Data Scientist(단기 외주)
+- 2021.8-10 braincrew Inc. Data Scientist(Finance, Time series prediction modeling) *단기 외주
 - 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/seungson/GAN_Project)
 - 2021.5 [캐글 Notebooks Expert(전체 상위 1%)](https://www.kaggle.com/songseungwon)
 - 2021.4 Google Tensorflow Certificate
