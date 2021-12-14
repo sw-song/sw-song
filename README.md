@@ -17,13 +17,14 @@
 
 ---
 **활동**
-- 2021.12- [데이터 분석 솔루션 Mole](https://data-mole.notion.site/MOLE-13dce7f47ba947568a2d8d85e51d0182) 운영
+- 2021.12- (주)페이먼트인앱 Data Scientist
 - 2021.10 42 Seoul 선발과정(piscine) 수료, 본과정 이수 중
-- 2021.8-10 Data Scientist in Braincrew inc.
+- 2021.8-10 브레인크루(주) Data Scientist(단기 외주)
 - 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/seungson/GAN_Project)
 - 2021.5 [캐글 Notebooks Expert(전체 상위 1%)](https://www.kaggle.com/songseungwon)
 - 2021.4 Google Tensorflow Certificate
 - 2019.12-2021.03 Data Science product lead in Fastcampus
+- 2019.09- [데이터사이언스/개발 블로그 운영](https://songseungwon.tistory.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-FF5E5B?style=round&logo=Telegraph&link=https://songseungwon.tistory.com)](https://songseungwon.tistory.com)
