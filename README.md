@@ -8,6 +8,7 @@
 ---
 **프로젝트**
 - 2022.1~ 종합 금융 소셜커머스 플랫폼 '이코노미쿠스' 기획 및 개발(진행 중)
+- 2022.1 의료 AI 사업 기획(정부 바우처)
 - 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/seungson/Slic)
 - 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘 구현(Based on Cosine Similarity)](https://github.com/seungson/SPF)
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/seungson/kiwoom)
@@ -18,9 +19,9 @@
 
 ---
 **활동**
-- 2021.12~ paymentInAPP Inc. AI Researcher(Finance, AI Modeling)
+- 2021.12~ paymentInAPP Inc. AI Researcher
 - 2021.10~ 42 Seoul 선발과정(piscine) 수료, 본과정 이수 중
-- 2021.8-10 braincrew Inc. Data Scientist(교육용 주가 예측 모델, 자동화 프로그램 개발)
+- 2021.8-10 braincrew Inc. Data Scientist
 - 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/seungson/GAN_Project)
 - 2021.5 [캐글 Notebooks Expert(전체 상위 1%)](https://www.kaggle.com/songseungwon)
 - 2021.4 Google Tensorflow Certificate
