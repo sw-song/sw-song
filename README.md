@@ -26,10 +26,10 @@
 
 ---
 **학력/경력**
-- 2021.12~ paymentInAPP Inc. AI Researcher
+- 2021.12~ PaymentInAPP Inc. AI Researcher
 - 2021.10~ 42 Seoul. Cadet(Trainee)
-- 2021.8~ braincrew Inc. Data Scientist
-- 2019.12-2021.3 Data Science product lead in Fastcampus
+- 2021.8~ Braincrew Inc. Data Scientist
+- 2019.12-2021.3 Fastcampus Co.,Ltd. Data science product lead
 - 2013.3-2019.7 Hankuk university of foreign studies(Political Science and Diplomacy & Economics)
 
 ---
