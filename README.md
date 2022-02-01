@@ -7,8 +7,8 @@
 
 ---
 **활동/프로젝트**
-- 2022.2 주식 종목 스크리너 개발 [(->프로토타입)](https://github.com/sw-song/Traiders) 
-- 2022.1~ 퀀트 소셜커머스 플랫폼 '이코노미쿠스' 기획
+- 2022.2 주식 종목 스크리너 개발 [(->프로토타입, '트레이더스')](https://github.com/sw-song/Traiders) 
+- 2022.1~ 퀀트 소셜커머스 플랫폼 기획 ('이코노미쿠스')
 - 2022.1 의료 AI 사업 기획(정부 바우처)
 - 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/sw-song/Slic)
 - 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘 구현(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
