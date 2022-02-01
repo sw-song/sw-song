@@ -7,6 +7,7 @@
 
 ---
 **활동/프로젝트**
+- 2022.2 주식 종목 스크리너 기획/개발 [(->프로토타입)](https://github.com/seungson/Traiders) 
 - 2022.1~ 퀀트 소셜커머스 플랫폼 '이코노미쿠스' 기획
 - 2022.1 의료 AI 사업 기획(정부 바우처)
 - 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/seungson/Slic)
