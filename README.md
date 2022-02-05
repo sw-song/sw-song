@@ -5,7 +5,7 @@
 - [TIL(Today I learned) - 개념 정리 / 기반 지식 공부](https://github.com/sw-song/TIL) 
 - [TIA(Today I Analyzed) - 데이터 분석, 머신러닝 실습](https://github.com/sw-song/TIA) 
 - [FastCampus JavaScript BootCamp - 웹 부트캠프, 8주간 학습 기록](https://github.com/sw-song/JavaScript_Bootcamp)
-- [데이터사이언스/개발 블로그](https://songseungwon.tistory.com)
+- [Tech Blog - DataScience, Statistics, Programming](https://songseungwon.tistory.com)
 
 ---
 **활동/프로젝트**
