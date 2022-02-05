@@ -1,9 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
 ---
-**스터디**
+**스터디/학습**
 - [TIL(Today I learned) - 개념 정리 / 기반 지식 공부](https://github.com/sw-song/TIL) 
 - [TIA(Today I Analyzed) - 데이터 분석, 머신러닝 실습](https://github.com/sw-song/TIA) 
+- [FastCampus JavaScript BootCamp - 웹 부트캠프, 8주간 학습 기록](https://github.com/sw-song/JavaScript_Bootcamp)
 
 ---
 **활동/프로젝트**
@@ -16,7 +17,7 @@
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/sw-song/kiwoom)
 - 2021.7 [R 데이터분석 튜토리얼 제작(영문판)](https://github.com/sw-song/rbook)
 - 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러 개발(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
-- 2021.3 [웹 데이터 수집 프로그램 개발](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
+- 2021.3 [교육 커머스 웹 스크래퍼 개발](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
 - 2021.2 문제풀이형 딥러닝, 머신러닝 교육 기획
 - 2021.1 자율주행, 영상인식 전문가 과정 기획
 - 2020.10 실시간 비대면 데이터분석 포트폴리오 완성 과정 기획
@@ -24,6 +25,8 @@
 - 2020.6 비대면 온라인 AI 컨퍼런스 기획
 - 2020.4 머신러닝 실무 능력 인증 과정 기획(국민대 경영대학원 MOU)
 - 2020.1 직장인 대상 실무형 데이터분석 교육 기획
+- 2019.12 [sns 웹스크래퍼 개발](https://github.com/sw-song/crawling)
+- 2019.9 [블록체인 해시블록 구현 with JavaScript](https://github.com/sw-song/blockchainHash)
 - 2019.9- [데이터사이언스/개발 블로그 운영](https://songseungwon.tistory.com)
 
 ---
@@ -33,6 +36,7 @@
 - 2021.8~ Braincrew Inc. Data Scientist
 - 2019.12-2021.3 Fastcampus Co.,Ltd. Data science product lead
 - 2013.3-2019.7 Hankuk university of foreign studies(Political Science and Diplomacy & Economics)
+
 
 ---
 **자격/수상**
