@@ -11,7 +11,6 @@
 **활동/프로젝트**
 - 2022.2 [주식 종목 스크리너 '트레이더스' 개발 (Frontend 프로토타입)](https://github.com/sw-song/Traiders)
 - 2022.1~ [퀀트 소셜커머스 플랫폼 '이코노미쿠스' 개발 (..작업중)](https://github.com/economicus)
-- 2022.1 의료 AI 사업 기획(정부 바우처)
 - 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/sw-song/Slic)
 - 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘 구현(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/sw-song/kiwoom)
@@ -32,7 +31,7 @@
 **학력/경력**
 - 2021.12~ PaymentInAPP Inc. AI Researcher
 - 2021.10~ 42 Seoul. Cadet(Trainee)
-- 2021.8~ Braincrew Inc. Data Scientist
+- 2021.8~ Braincrew Inc. AI Engineer
 - 2019.12-2021.3 Fastcampus Co.,Ltd. Data science product lead
 - 2013.3-2019.7 Hankuk University of Foreign Studies(Political Science and Diplomacy & Economics)
 
