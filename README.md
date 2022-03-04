@@ -10,9 +10,9 @@
 ---
 **활동/프로젝트**
 - 2022.2 [주식 종목 스크리너 프로토타입(view)](https://github.com/sw-song/Traiders)
-- 2022.1~ [42서울 '이코노미쿠스'팀 운영 - 웹 기반 금융분석(퀀트) 툴 개발](https://github.com/economicus)
+- 2022.1~ [42서울 '이코노미쿠스' 팀 운영 - 웹 기반 금융분석(퀀트) 툴 개발](https://github.com/economicus)
 - 2021.12 [시계열 예측 튜토리얼(번역) - 암호자산 가격 다중 예측](https://www.kaggle.com/songseungwon/crypto-forecasting-tutorial)
-- 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램(Image Classifier)](https://github.com/sw-song/Slic)
+- 2021.11 [Slic(Single Line Image Classifier) - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
 - 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
 - 2021.7 [R 데이터분석 기초(문법) 튜토리얼(영문판)](https://github.com/sw-song/rbook)
