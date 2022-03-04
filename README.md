@@ -9,29 +9,29 @@
 
 ---
 **활동/프로젝트**
-- 2022.2 [주식 종목 스크리너 '트레이더스' 개발 (Frontend 프로토타입)](https://github.com/sw-song/Traiders)
-- 2022.1~ [퀀트 소셜커머스 플랫폼 '이코노미쿠스' 개발 (..작업중)](https://github.com/economicus)
-- 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램 개발(Image Classifier)](https://github.com/sw-song/Slic)
-- 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘 구현(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
-- 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/sw-song/kiwoom)
-- 2021.7 [R 데이터분석 튜토리얼 제작(영문판)](https://github.com/sw-song/rbook)
-- 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러 개발(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
-- 2021.3 [교육 커머스 웹 스크래퍼 개발](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
+- 2022.2 [주식 종목 스크리너 프로토타입(view)](https://github.com/sw-song/Traiders)
+- 2022.1~ [42서울 '이코노미쿠스'팀 운영 - 웹 기반 금융분석(퀀트) 툴 개발](https://github.com/economicus)
+- 2021.11 [데이터 수집/모델 학습/웹 배포 자동화 프로그램(Image Classifier)](https://github.com/sw-song/Slic)
+- 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
+- 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
+- 2021.7 [R 데이터분석 튜토리얼(영문판)](https://github.com/sw-song/rbook)
+- 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
+- 2021.3 [교육 커머스 웹 스크래퍼](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
 - 2021.2 문제풀이형 딥러닝, 머신러닝 교육 기획
 - 2021.1 자율주행, 영상인식 전문가 과정 기획
 - 2020.10 실시간 비대면 데이터분석 포트폴리오 완성 과정 기획
-- 2020.9 [Tech 교육 트랜드 분석 - 웹 데이터 수집 및 대시보드 구축](https://github.com/sw-song/Tech-Trends-2020)
+- 2020.9 [Tech 교육 트랜드 분석 (+웹 데이터 수집 및 대시보드)](https://github.com/sw-song/Tech-Trends-2020)
 - 2020.6 비대면 온라인 AI 컨퍼런스 기획
 - 2020.4 머신러닝 실무 능력 인증 과정 기획(국민대 경영대학원 MOU)
 - 2020.1 직장인 대상 실무형 데이터분석 교육 기획
-- 2019.12 [sns 웹스크래퍼 개발](https://github.com/sw-song/crawling)
-- 2019.9 [블록체인 해시블록 구현 with JavaScript](https://github.com/sw-song/blockchainHash)
+- 2019.12 [sns 웹스크래퍼](https://github.com/sw-song/crawling)
+- 2019.9 [블록체인 해시블록(JavaScript)](https://github.com/sw-song/blockchainHash)
 
 ---
 **학력/경력**
 - 2021.12~ PaymentInAPP Inc. AI Researcher
 - 2021.10~ 42 Seoul. Cadet(Trainee)
-- 2021.8~ Braincrew Inc. AI Engineer
+- 2021.8~ Braincrew Inc. Data Scientist
 - 2019.12-2021.3 Fastcampus Co.,Ltd. AI & Data science product lead
 - 2013.3-2019.7 Hankuk University of Foreign Studies(Political Science and Diplomacy & Economics)
 
