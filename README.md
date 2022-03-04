@@ -13,7 +13,7 @@
 - 2022.1~ [42서울 '이코노미쿠스' 팀 운영 - 웹 기반 금융분석(퀀트) 툴 개발](https://github.com/economicus)
 - 2021.12 [시계열 예측 튜토리얼(번역) - 암호자산 가격 다중 예측](https://www.kaggle.com/songseungwon/crypto-forecasting-tutorial)
 - 2021.11 [Slic(Single Line Image Classifier) - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
-- 2021.9 [금융 시계열 예측 - 패턴 검색 알고리즘(Based on Cosine Similarity)](https://github.com/sw-song/SPF)
+- 2021.9 [SPF(Stock Pattern Finder) - 과거 주가 시계열 패턴 검색](https://github.com/sw-song/SPF)
 - 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
 - 2021.7 [R 데이터분석 기초(문법) 튜토리얼(영문판)](https://github.com/sw-song/rbook)
 - 2021.7 [딥러닝(StyleGAN v2-ada) 튜토리얼 - 강아지 표정 바꾸기](https://www.kaggle.com/songseungwon/stylegan2-ada-change-a-dog-s-facial-expression)
