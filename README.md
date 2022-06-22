@@ -3,34 +3,35 @@
 **Work Experience**
 
 > SK
-- 앱 사용자 데이터 분석
-- 자연어처리 기반 연관 키워드 및 키워드 트랜드 분석
-- 웹 대시보드 개발
+- 앱 사용자 데이터 분석(Python, Regression, PCA)
+- 자연어처리 기반 연관 키워드 분석 및 토픽모델링(Python, LDA)
+- 웹 대시보드 개발(Python, Tableau)
+- 웹 데이터 수집 및 키워드 분석(Python, KMeans)
 
 > SK mySUNI
-- 서베이 데이터 군집 분석
-- 군집간 수요 예측
+- 서베이 군집 분석, 토픽모델링(Python, LDA)
+- 교육 수요 예측 분석(Python)
 
 > YGP(유브갓픽쳐스)
-- 음성인식/영상인식 AI 개발
-- AI 배포 서버 개발
-- 웹 데이터 수집
-- 웹 대시보드 개발
+- 광고 스토리보드 생성 AI 및 배포 서버 개발(Flask, Tensorflow, PyTorch, linux)
+- 광고 카피라이트 생성 AI 개발(NLP, SentenceTransformer)
+- 웹 데이터 수집 및 키워드 생성 모델 개발(Python)
 
 > PaymentInApp
-- 암호자산 변동성 예측
-- 의료 현장 AI 도입 연구
-- 시장 조사 분석
+- 암호자산 변동성 및 승률 예측 AI 개발(LSTM)
+- 의료 AR 기기에 대한 AI 적용 연구
 
 > Braincrew
-- 금융 시계열 데이터 예측
-- 종목 스크리너 개발
+- 금융 시계열 데이터 예측(Python)
+- 종목 스크리너 개발(Python)
 
 > Fastcampus
-- 데이터사이언스 교육 기획 파트 총괄
-- 웹 데이터 수집 및 빅데이터 기반 마켓 리서치
-- 소비시장 지표 개발 및 콘텐츠 수요 예측
-- 데이터 대시보드 개발
+- 데이터사이언스 교육 기획 파트 총괄 및 콘텐츠 기획 개발
+- 데이터사이언스 교육 콘텐츠 제작 및 품질 검수
+- 교육 수요 조사를 위한 웹 데이터 수집 및 분석(Python)
+- 매출 선행 지표 개발 및 수요 예측 분석
+- 대체재 현황 대시보드 구축(Google Datastudio)
+- 매출 대시보드 구축(Google Spreadsheet)
 
 
 ---
@@ -38,6 +39,7 @@
 - [TIL(Today I learned) - 개념 정리 / 기반 지식 공부](https://github.com/sw-song/TIL) 
 - [TIA(Today I Analyzed) - 데이터 분석, 머신러닝 실습](https://github.com/sw-song/TIA) 
 - [Tech Blog - DataScience, Statistics, Programming](https://songseungwon.tistory.com)
+- [Tech & Finance Blog - Data Analysis, Engineering, Modeling](https://blog.naver.com/sw930601)
 - [FastCampus JavaScript BootCamp - 웹 부트캠프, 8주간 학습 기록](https://github.com/sw-song/JavaScript_Bootcamp)
 
 ---
@@ -66,9 +68,9 @@
 
 ---
 **학력/경력**
-- 2021.12~ PaymentInAPP Inc. AI Researcher
+- 2021.4~ Data Scientist(Freelance)
+- 2021.12~2022.7 PaymentInAPP Inc. AI Researcher
 - 2021.10~2022.4 42 Seoul. Cadet(Trainee)
-- 2021.8~ Braincrew Inc. Data Scientist
 - 2019.12-2021.3 Fastcampus Co.,Ltd. AI & Data science product lead
 - 2013.3-2019.7 Hankuk University of Foreign Studies(Political Science and Diplomacy & Economics)
 
