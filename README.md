@@ -20,6 +20,7 @@
 > PaymentInApp
 - 암호자산 변동성 및 승률 예측 AI 개발(LSTM)
 - 의료 AR 기기에 대한 AI 적용 연구
+- 광고 제작 실무에 대한 AI 적용 연구
 
 > Braincrew
 - 금융 시계열 데이터 예측(Python)
