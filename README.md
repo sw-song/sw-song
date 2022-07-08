@@ -33,6 +33,10 @@
 - 대체재 현황 대시보드 구축(Google Datastudio)
 - 매출 대시보드 구축(Google Spreadsheet)
 
+---
+**Lecture**
+- "Py-Finance" 금융 데이터분석 스터디 운영
+
 
 ---
 **Study**
