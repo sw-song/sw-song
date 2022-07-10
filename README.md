@@ -31,7 +31,7 @@
 - 데이터사이언스 교육 콘텐츠 제작 및 품질 검수
 - 웹 데이터 수집 및 콘텐츠 수요 분석(Python)
 - 매출 선행 지표 개발 및 교육 수요 분석
-- 해외 대체재 매출 대시보드 구축(Google Datastudio)
+- 대체재 모니터링 대시보드 구축(Google Datastudio)
 - 자사 매출 대시보드 구축(Google Spreadsheet)
 
 ---
