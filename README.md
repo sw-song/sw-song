@@ -13,7 +13,7 @@
 - 교육 수요 예측 분석(Python)
 
 > YGP(유브갓픽쳐스)
-- 광고 스토리보드 생성 AI 및 배포 서버 개발(Flask, Tensorflow, PyTorch, linux)
+- 광고 스토리보드 생성 AI 및 배포 서버 개발(Flask, Tensorflow, PyTorch, Linux)
 - 광고 카피라이트 생성 AI 개발(NLP, SentenceTransformer)
 - 웹 데이터 수집 및 키워드 생성 모델 개발(Python)
 
