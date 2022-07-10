@@ -29,10 +29,10 @@
 > Fastcampus
 - 데이터사이언스 교육 기획 파트 총괄 및 콘텐츠 기획 개발
 - 데이터사이언스 교육 콘텐츠 제작 및 품질 검수
-- 교육 수요 조사를 위한 웹 데이터 수집 및 분석(Python)
-- 매출 선행 지표 개발 및 수요 예측 분석
-- 대체재 현황 대시보드 구축(Google Datastudio)
-- 매출 대시보드 구축(Google Spreadsheet)
+- 웹 데이터 수집 및 콘텐츠 수요 분석(Python)
+- 매출 선행 지표 개발 및 교육 수요 분석
+- 해외 대체재 매출 대시보드 구축(Google Datastudio)
+- 자사 매출 대시보드 구축(Google Spreadsheet)
 
 ---
 **Lecture**
@@ -50,27 +50,28 @@
 
 ---
 **Project**
-- 2022.2 [주식 종목 스크리너 프로토타입(view) 개발](https://github.com/sw-song/Traiders)
+- 2022.7 [금융 데이터 분석을 위한 파이썬 기초 튜토리얼 제작](https://github.com/sw-song/py_finance)
+- 2022.2 [주식 종목 스크리너 개발 - 화면 프로토타입](https://github.com/sw-song/Traiders)
 - 2022.1~ [42서울 '이코노미쿠스' 팀 운영 - 웹 기반 금융분석(퀀트) 툴 개발](https://github.com/economicus)
-- 2021.12 [시계열 예측 튜토리얼(번역) - 암호자산 가격 다중 예측](https://www.kaggle.com/songseungwon/crypto-forecasting-tutorial)
-- 2021.11 [Slic(Single Line Image Classifier) - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
-- 2021.9 [SPF(Stock Pattern Finder) - 과거 주가 시계열 패턴 검색](https://github.com/sw-song/SPF)
-- 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
-- 2021.7 [R 데이터분석 기초(문법) 튜토리얼(영문판)](https://github.com/sw-song/rbook)
-- 2021.7 [딥러닝(StyleGAN v2-ada) 튜토리얼 - 강아지 표정 바꾸기](https://www.kaggle.com/songseungwon/stylegan2-ada-change-a-dog-s-facial-expression)
-- 2021.7 [딥러닝(StarGAN) 튜터리얼 - 가짜이미지 생성](https://www.kaggle.com/songseungwon/stargan-tutorial-with-15-steps-make-fake-images)
-- 2021.6 [딥러닝(CycleGAN) 튜토리얼 - 그림<->사진 바꾸기](https://www.kaggle.com/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo/notebook)
-- 2021.6 [딥러닝(ConditionalGAN 튜토리얼 - Fake Fasion MNIST 생성](https://www.kaggle.com/songseungwon/generate-fashion-images-with-conditional-gan)
-- 2021.6 [PyTorch 튜토리얼 - Basic GAN](https://www.kaggle.com/songseungwon/pytorch-gan-basic-tutorial-for-beginner)
-- 2021.6 [대규모(42K+) Udemy 학습자 데이터셋 배포](https://www.kaggle.com/songseungwon/2020-udemy-courses-dataset)
-- 2021.6 [이미지 객체탐지 튜토리얼 - COVID-19 Detection](https://www.kaggle.com/songseungwon/siim-covid-19-detection-10-step-tutorial-1)
-- 2021.5 [자연어처리 & 감성분석 튜토리얼 - 재난 관련 tweet 감성분석](https://www.kaggle.com/songseungwon/nlp-quick-start-for-newbie-with-9steps)
-- 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
-- 2021.3 [로지스틱 회귀 튜토리얼 - 통신사고객 이진 분류](https://www.kaggle.com/songseungwon/logistic-regression-step-by-step)
-- 2021.3 [교육 커머스 웹 스크래퍼](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
-- 2020.9 [Tech 교육 트랜드 분석 (+웹 데이터 수집 및 대시보드)](https://github.com/sw-song/Tech-Trends-2020)
-- 2019.12 [sns 웹스크래퍼](https://github.com/sw-song/crawling)
-- 2019.9 [블록체인 해시블록(JavaScript)](https://github.com/sw-song/blockchainHash)
+- 2021.12 [시계열 예측 튜토리얼(번역) 제작 - 암호자산 가격 다중 예측](https://www.kaggle.com/songseungwon/crypto-forecasting-tutorial)
+- 2021.11 [Slic(Single Line Image Classifier) 개발 - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
+- 2021.9 [SPF(Stock Pattern Finder) 개발 - 과거 주가 시계열 패턴 검색](https://github.com/sw-song/SPF)
+- 2021.8 [증권사 API 기반 투자 매수/매도 신호 알림 서비스 개발](https://github.com/sw-song/kiwoom)
+- 2021.7 [R 데이터분석 기초(문법) 튜토리얼(영문판) 제작](https://github.com/sw-song/rbook)
+- 2021.7 [딥러닝(StyleGAN v2-ada) 튜토리얼 제작 - 강아지 표정 바꾸기](https://www.kaggle.com/songseungwon/stylegan2-ada-change-a-dog-s-facial-expression)
+- 2021.7 [딥러닝(StarGAN) 튜터리얼 제작 - 가짜이미지 생성](https://www.kaggle.com/songseungwon/stargan-tutorial-with-15-steps-make-fake-images)
+- 2021.6 [딥러닝(CycleGAN) 튜토리얼 제작 - 그림<->사진 바꾸기](https://www.kaggle.com/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo/notebook)
+- 2021.6 [딥러닝(ConditionalGAN 튜토리얼 제작 - Fake Fasion MNIST 생성](https://www.kaggle.com/songseungwon/generate-fashion-images-with-conditional-gan)
+- 2021.6 [PyTorch 기초 튜토리얼 제작 - Basic GAN](https://www.kaggle.com/songseungwon/pytorch-gan-basic-tutorial-for-beginner)
+- 2021.6 [대규모(42K+) Udemy 학습자 데이터셋 수집 - 캐글 배포](https://www.kaggle.com/songseungwon/2020-udemy-courses-dataset)
+- 2021.6 [이미지 객체탐지 튜토리얼 제작 - COVID-19 Detection](https://www.kaggle.com/songseungwon/siim-covid-19-detection-10-step-tutorial-1)
+- 2021.5 [자연어처리 & 감성분석 튜토리얼 제작 - 재난 관련 tweet 감성분석](https://www.kaggle.com/songseungwon/nlp-quick-start-for-newbie-with-9steps)
+- 2021.5 [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러(Hand Gesture Recognition) 개발](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
+- 2021.3 [로지스틱 회귀 튜토리얼 제작 - 통신사고객 이진 분류](https://www.kaggle.com/songseungwon/logistic-regression-step-by-step)
+- 2021.3 [웹 스크래퍼 개발 - 국내 교육 트랜드 분석](https://github.com/sw-song/KR_Tech_Edu_WebScraper)
+- 2020.9 [국내 교육 트랜드 분석 및 Google Data Studio 대시보드 구현)](https://github.com/sw-song/Tech-Trends-2020)
+- 2019.12 [웹 스크래퍼 개발 - SNS 기반 소비자 트랜드 분석](https://github.com/sw-song/crawling)
+- 2019.9 [블록체인 해시블록(JavaScript) 구현](https://github.com/sw-song/blockchainHash)
 
 ---
 **학력/경력**
