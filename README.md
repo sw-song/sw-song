@@ -36,7 +36,7 @@
 
 ---
 **Lecture**
-- "Py-Finance" 금융 데이터분석 스터디 운영
+- ["Py-Finance" 금융 데이터분석 스터디 운영](https://github.com/sw-song/py_finance)
 - (엘리스) NIPA 2022 AI SW 코딩입문 훈련 - 개발 환경 구축 및 선수 지식 강의
 
 
