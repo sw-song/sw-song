@@ -78,8 +78,8 @@
 
 ---
 **학력/경력**
+- 2021.12~ PaymentInAPP Inc. AI Researcher
 - 2021.4~ Data Scientist(Freelance)
-- 2021.12~2022.7 PaymentInAPP Inc. AI Researcher
 - 2021.10~2022.4 42 Seoul. Cadet(Trainee)
 - 2019.12-2021.3 Fastcampus Co.,Ltd. AI & Data science product lead
 - 2013.3-2019.7 Hankuk University of Foreign Studies(Political Science and Diplomacy & Economics)
