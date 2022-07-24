@@ -78,7 +78,7 @@
 
 ---
 **학력/경력**
-- 2021.12~ PaymentInAPP Inc. Senior AI Researcher
+- 2021.12~ PaymentInAPP Inc. Head of AI
 - 2021.4~ Data Scientist(Freelance)
 - 2021.10~2022.4 42 Seoul. Cadet(Trainee)
 - 2019.12-2021.3 Fastcampus Co.,Ltd. Senior Product Manager, Data Science Part(Product) Lead
