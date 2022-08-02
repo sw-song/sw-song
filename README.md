@@ -3,7 +3,7 @@
 **Work Experience**
 
 
-> PaymentInApp | AI 연구 및 개발 총괄
+- PaymentInApp | AI 연구 및 개발 총괄
 ```
 - 금융 자산 변동성 예측을 위한 AI 연구
 - 의료 AR 기기에 대한 AI 연구
@@ -16,7 +16,7 @@
 - 대중교통 노선 최적화에 관한 AI 연구
 ```
 
-> SK | 프리랜서 데이터사이언티스트
+- SK | 프리랜서 데이터사이언티스트
 ```
 - 앱 사용자 데이터 분석(Python, Regression, PCA)
 - 자연어처리 기반 연관 키워드 분석 및 토픽모델링(Python, LDA)
@@ -24,19 +24,19 @@
 - 웹 데이터 수집 및 키워드 분석(Python, KMeans)
 ```
 
-> SK mySUNI | 프리랜서 데이터사이언티스트
+- SK mySUNI | 프리랜서 데이터사이언티스트
 ```
 - 서베이 군집 분석, 토픽모델링(Python, LDA)
 - 교육 수요 예측 분석(Python)
 ```
 
-> Braincrew | 프리랜서 데이터사이언티스트
+- Braincrew | 프리랜서 데이터사이언티스트
 ```
 - 금융 시계열 데이터 예측(Python)
 - 종목 스크리너 개발(Python)
 ```
 
-> Fastcampus | 데이터사이언스 교육 기획 파트 총괄
+- Fastcampus | 데이터사이언스 교육 기획 파트 총괄
 ```
 - 데이터사이언스 교육 콘텐츠 제작 및 품질 검수
 - 웹 데이터 수집 및 콘텐츠 수요 분석(Python)
