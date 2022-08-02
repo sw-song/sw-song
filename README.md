@@ -2,32 +2,33 @@
 
 **Work Experience**
 
-> SK
+
+> PaymentInApp | AI 연구 및 개발 총괄
+- 금융 자산 변동성 예측을 위한 AI 연구
+- 의료 AR 기기에 대한 AI 연구
+- 광고 제작 실무에 대한 AI 연구
+- YGP(유브갓픽처스) 광고 AI 서비스 기획, AI 개발
+  - (이하 프로젝트 총괄)
+  - AIDEN Project : 광고 스토리보드 생성 AI 및 배포 서버 개발(Flask, Tensorflow, PyTorch, Linux)
+  - JOSHUA Project : 광고 카피라이트 생성 AI 개발(NLP, SentenceTransformer)
+  - JOSHUA Project : 웹 데이터 수집 및 키워드 생성 모델 개발(Python)
+- 대중교통 노선 최적화에 관한 AI 연구
+
+> SK | 프리랜서 데이터사이언티스트
 - 앱 사용자 데이터 분석(Python, Regression, PCA)
 - 자연어처리 기반 연관 키워드 분석 및 토픽모델링(Python, LDA)
 - 웹 대시보드 개발(Python, Tableau)
 - 웹 데이터 수집 및 키워드 분석(Python, KMeans)
 
-> SK mySUNI
+> SK mySUNI | 프리랜서 데이터사이언티스트
 - 서베이 군집 분석, 토픽모델링(Python, LDA)
 - 교육 수요 예측 분석(Python)
 
-> YGP(유브갓픽쳐스)
-- 광고 스토리보드 생성 AI 및 배포 서버 개발(Flask, Tensorflow, PyTorch, Linux)
-- 광고 카피라이트 생성 AI 개발(NLP, SentenceTransformer)
-- 웹 데이터 수집 및 키워드 생성 모델 개발(Python)
-
-> PaymentInApp
-- 금융 자산 변동성 예측을 위한 AI 연구
-- 의료 AR 기기에 대한 AI 적용 연구
-- 광고 제작 실무에 대한 AI 적용 연구
-
-> Braincrew
+> Braincrew | 프리랜서 데이터사이언티스트
 - 금융 시계열 데이터 예측(Python)
 - 종목 스크리너 개발(Python)
 
-> Fastcampus
-- 데이터사이언스 교육 기획 파트 총괄 및 콘텐츠 기획 개발
+> Fastcampus | 데이터사이언스 교육 기획 파트 총괄
 - 데이터사이언스 교육 콘텐츠 제작 및 품질 검수
 - 웹 데이터 수집 및 콘텐츠 수요 분석(Python)
 - 매출 선행 지표 개발 및 교육 수요 분석
