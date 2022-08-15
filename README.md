@@ -50,14 +50,6 @@
 - (엘리스) NIPA 2022 AI SW 코딩입문 훈련 - 개발 환경 구축 및 선수 지식 강의
 
 ---
-**Study**
-- [TIL(Today I learned) - 개념 정리 / 기반 지식 공부](https://github.com/sw-song/TIL) 
-- [Kaggle Study - 데이터 분석, 머신러닝 실습](https://github.com/sw-song/kaggle-study) 
-- [Tech Blog 1(Tistory)](https://songseungwon.tistory.com)
-- [Tech Blog 2(Naver)](https://blog.naver.com/sw930601)
-- [FastCampus - JavaScript BootCamp](https://github.com/sw-song/JavaScript_Bootcamp)
-
----
 **Tutorials**
 - [캐글 스터디 - HR, 마케팅, 환경, 의료, 금융, 학습, 제조, 이미지 분류, 감성 분석, 이미지 생성](https://github.com/sw-song/kaggle-study)
 - [파이썬 시계열 데이터 분석, 머신러닝 - 금융](https://github.com/sw-song/py_finance)
