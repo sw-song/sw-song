@@ -46,10 +46,10 @@
 ```
 ---
 **Ecudation**
-- [(Py-Finance) 금융 데이터분석 스터디 운영](https://github.com/sw-song/py_finance)
-- (엘리스) NIPA 2022 AI SW 코딩입문 훈련 - 개발 환경 구축 및 선수 지식 강의
-- [캐글 스터디 - HR, 마케팅, 환경, 의료, 금융, 학습, 제조, 이미지 분류, 감성 분석, 이미지 생성](https://github.com/sw-song/kaggle-study)
-- [데이터 분석 튜토리얼 | 기술 트랜드 분석 | 데이터 수집, 분석, 시각화 대시보드](https://github.com/sw-song/Tech-Trends-2020)
+- [Py-Finance | 금융 데이터분석 스터디 운영](https://github.com/sw-song/py_finance)
+- 엘리스 | NIPA 2022 AI SW 코딩입문 훈련 - 개발 환경 구축 및 선수 지식 강의
+- [DS 튜토리얼 | 캐글 스터디 = HR, 마케팅, 환경, 의료, 금융, 학습, 제조, 이미지 분류, 감성 분석, 이미지 생성](https://github.com/sw-song/kaggle-study)
+- [데이터 분석 튜토리얼 | 기술 트랜드 분석 - 데이터 수집, 분석, 시각화 대시보드](https://github.com/sw-song/Tech-Trends-2020)
 
 ---
 **Project**
