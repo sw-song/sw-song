@@ -61,8 +61,8 @@
 
 ---
 **자격/수상**
-- 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(특허청장상 수상)](https://github.com/sw-song/GAN_Project)
-- 2021.5 [캐글 Notebooks Expert(전체 상위 1%)](https://www.kaggle.com/songseungwon)
+- 2021.8 [서울과학기술대학교 주관 딥러닝 AI대회 우승(1st place, 특허청장상 수상)](https://github.com/sw-song/GAN_Project)
+- 2021.5 [캐글 Notebooks Expert(상위 1%)](https://www.kaggle.com/songseungwon)
 - 2021.4 Google Tensorflow Certificate
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
