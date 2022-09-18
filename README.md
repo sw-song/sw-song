@@ -67,4 +67,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007DC1?style=rounde&logo=Linkedin&link=https://www.linkedin.com/in/seungwonsong/)](https://www.linkedin.com/in/seungwonsong/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=round&logo=Keras&logoColor=white&link=https://www.kaggle.com/songseungwon)](https://www.kaggle.com/songseungwon)
-[![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=round&logo=naver&link=https://blog.naver.com/sw930601)](https://blog.naver.com/sw930601)
