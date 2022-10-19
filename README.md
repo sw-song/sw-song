@@ -67,7 +67,7 @@
 - [Slic(Single Line Image Classifier) - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
 - [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
 - [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
-- [교육 트랜드 분서 및 대시보드 시각화](https://github.com/sw-song/Tech-Trends-2020)
+- [교육 트랜드 분석 및 대시보드 시각화](https://github.com/sw-song/Tech-Trends-2020)
 
 ---
 **자격/수상**
