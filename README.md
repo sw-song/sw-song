@@ -60,7 +60,6 @@
 - 엘리스 | NIPA 2022 AI SW 코딩입문 훈련 - 개발 환경 구축 및 선수 지식 강의
 - [캐글 스터디 - HR, 마케팅, 환경, 의료, 금융, 학습, 제조, 이미지 분류, 감성 분석, 이미지 생성](https://github.com/sw-song/kaggle-study)
 - [R 영문 튜토리얼 | 기초 | R 기본 문법 및 탐색적 데이터 분석 기초](https://sw-song.github.io/rbook/)
-- [파이썬 웹 데이터 수집 및 시각화 - Tech Trend Analysis](https://github.com/sw-song/Tech-Trends-2020)
 
 ---
 **Project**
@@ -68,6 +67,7 @@
 - [Slic(Single Line Image Classifier) - 데이터 수집/모델 학습/웹 배포 자동화 프로그램](https://github.com/sw-song/Slic)
 - [증권사 API 기반 투자 매수/매도 신호 알림 서비스](https://github.com/sw-song/kiwoom)
 - [딥러닝 영상인식 기반 실시간 볼륨 컨트롤러(Hand Gesture Recognition)](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
+- [교육 트랜드 분서 및 대시보드 시각화](https://github.com/sw-song/Tech-Trends-2020)
 
 ---
 **자격/수상**
