@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-veloper&show_icons=true&theme=merko)
 
 **Work Experience**
 - PaymentInApp | Head of AI, PM
