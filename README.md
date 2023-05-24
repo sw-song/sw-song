@@ -1,7 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
 **Work Experience**
-- PaymentInApp | Head of AI, PM
+- WorldQuant | Research Consultant
+- PaymentInApp | Head of AI
 - SK | Freelance, Data Scientist
 - SK mySUNI | Freelance Data Scientist
 - Braincrew | Freelance Data Scientist
