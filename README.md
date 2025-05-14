@@ -1,11 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
 **Work Experience**
-- MayI | PM
+- MayI | Product Owner
 - WorldQuant | Research Consultant
-- PaymentInApp | PM, Head of AI
+- PaymentInApp | Head of AI
 - Braincrew | Data Scientist
-- Fastcampus | PM, Part Lead of Data Science
+- Fastcampus | Data Science Part Lead
 ---
 **Activities/Knowledge Sharing**
 - KOSME | Judge for the Final Presentation of the Startup-linked Data Science/ML/AI Project at Year-Dream School
