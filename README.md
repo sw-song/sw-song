@@ -4,7 +4,7 @@
 
 I design Data products that help people and organizations think faster, decide smarter, and operate leaner.
 I've led Data analytics, AI, and Automation projects across diverse industries - including Education, Finance, Legal, Advertisement and Retail etc.
-- mAyI | Product Owner
+- mAy-I | Product Owner
 - PaymentInApp | Product Manager (Head of AI)
 - Braincrew | Product Manager (Data Product)
 - Fastcampus | Product Manager (Data Science Part Lead)
