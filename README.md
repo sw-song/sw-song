@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-song&show_icons=true&theme=merko)
 
 **Work Experience**
+
 I design Data and AI products that help people and organizations think faster, decide smarter, and operate leaner.
 I've led Data analytics, AI, and Automation projects across diverse industries - including Education, Finance, Legal, Advertisement and Retail etc.
 - MayI | Product Owner
@@ -9,6 +10,7 @@ I've led Data analytics, AI, and Automation projects across diverse industries -
 - Fastcampus | Product Manager (Data Science Part Lead)
 ---
 **Activities/Knowledge Sharing**
+
 I've shared many of educational contents and participated in knowledge sharing about Data Science and AI/ML Technology.
 - KOSME | Judge for the Final Presentation of the Startup-linked Data Science/ML/AI Project at Year-Dream School
 - SK | AI Certification Exam Question Evaluation Commitee
@@ -20,6 +22,7 @@ I've shared many of educational contents and participated in knowledge sharing a
 
 ---
 **Project**
+
 I've been building and sharing Data and AI Products which could be used as a base project for developers who don't want to re-invent the wheel.
 - [Operation of 'Economicus' team at 42Seoul - Financial Analysis Web Service](https://github.com/economicus)
 - [Slic(Single Line Image Classifier)](https://github.com/sw-song/Slic)
@@ -29,6 +32,7 @@ I've been building and sharing Data and AI Products which could be used as a bas
 
 ---
 **Honors/Awards**
+
 I've tool part in competitions when i got a change for the purpose of improving my own technical skills about Data Science and AI.
 - 2023.4 Regional Top 5 in WorldQuant 2023 International Quant Competition
 - 2021.8 [1st Place at 2021 Deep Learning AI Competition(Korean Intellectual Property Office Award)](https://github.com/sw-song/GAN_Project)
