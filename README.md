@@ -2,7 +2,7 @@
 
 **Work Experience**
 
-I design Data and AI products that help people and organizations think faster, decide smarter, and operate leaner.
+I design Data products that help people and organizations think faster, decide smarter, and operate leaner.
 I've led Data analytics, AI, and Automation projects across diverse industries - including Education, Finance, Legal, Advertisement and Retail etc.
 - MayI | Product Owner
 - PaymentInApp | Product Manager (Head of AI)
