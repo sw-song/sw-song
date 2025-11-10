@@ -23,7 +23,7 @@ I've shared many of educational contents and participated in knowledge sharing a
 ---
 **Project**
 
-I've been building and sharing Data and AI Products which could be used as a base project for developers who don't want to re-invent the wheel.
+I've been building and open sourcing Data Products which could be used as a base project for developers who don't want to re-invent the wheel.
 - [Operation of 'Economicus' team at 42Seoul - Financial Analysis Web Service](https://github.com/economicus)
 - [Slic(Single Line Image Classifier)](https://github.com/sw-song/Slic)
 - [Investment Buy/Sell Signal Notification System](https://github.com/sw-song/kiwoom)
@@ -33,7 +33,7 @@ I've been building and sharing Data and AI Products which could be used as a bas
 ---
 **Honors/Awards**
 
-I've tool part in competitions when i got a change for the purpose of improving my own technical skills about Data Science and AI.
+I've took part in competitions when i got a change for the purpose of improving my own technical skills about Data Science and AI.
 - 2023.4 Regional Top 5 in WorldQuant 2023 International Quant Competition
 - 2021.8 [1st Place at 2021 Deep Learning AI Competition(Korean Intellectual Property Office Award)](https://github.com/sw-song/GAN_Project)
 - 2021.5 [Kaggle Notebooks Expert(Top 1%)](https://www.kaggle.com/songseungwon)
